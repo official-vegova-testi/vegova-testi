@@ -24,3 +24,9 @@
 **OSPRv**: Matic **Podpadec**, Aleš **Volčini**<br>
 
 **FIZ**: Andrej **Guštin**<br>
+
+**ZGO**: Špela **Pretnar** <br>
+
+**DIT**: Alexander **Pene** <br>
+
+**DITv**: Alexander **Pene**, David **Zindović** <br>
