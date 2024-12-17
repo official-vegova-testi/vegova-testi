@@ -1,4 +1,4 @@
-# Tehnik Računalništva Testi in Preverjanja
+# Tehnik Računalništva Testi, Preverjanja in Dokumenti Praktičnih Ocenjevanj
 ## 2023 - 2027
 ## NOVI PROGRAM (Python v 1. letniku)
 <br>
