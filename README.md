@@ -6,6 +6,7 @@
 
 ## 1. LETNIK profesorji
 
+**KEM**: Aleksandra Saška **Kučan**<br>
 
 ## 2. LETNIK profesorji
 **ANG**: Beti **Kerin** <br>
