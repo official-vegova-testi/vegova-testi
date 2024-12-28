@@ -8,6 +8,8 @@
 
 **KEM**: Aleksandra Saška **Kučan**<br>
 
+**MAT**: Erika **Pleša** <br>
+
 ## 2. LETNIK profesorji
 **ANG**: Beti **Kerin** <br>
 
