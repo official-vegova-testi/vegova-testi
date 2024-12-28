@@ -5,10 +5,13 @@
 
 
 ## 1. LETNIK profesorji
+**ANG**: Beti **Kerin** <br>
+
+**MAT**: Erika **Pleša** <br>
 
 **KEM**: Aleksandra Saška **Kučan**<br>
 
-**MAT**: Erika **Pleša** <br>
+**SPOP**: Dušan **Sitar** <br>
 
 ## 2. LETNIK profesorji
 **ANG**: Beti **Kerin** <br>
