@@ -11,6 +11,8 @@
 
 **KEM**: Aleksandra Saška **Kučan**<br>
 
+**SLO**: Katja **Kopasz**, Brina Karmen **Kodrič Rašl**<br>
+
 **SPOP**: Dušan **Sitar** <br>
 
 ## 2. LETNIK profesorji
