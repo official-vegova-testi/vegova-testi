@@ -1,10 +1,10 @@
 # Vegova vsi programi: Testi, Preverjanja, Domača Branja in Dokumenti Praktičnih Ocenjevanj
 ## 2023 - 2027
-## NOVI PROGRAM (Python v 1. letniku)
+## NOVI PROGRAM RAČUNALNIŠTVA (Python v 1. letniku)
 <br>
 
-
-## 1. LETNIK profesorji
+## RAČUNALNIŠTVO
+### 1. LETNIK profesorji
 **ANG**: Beti **Kerin** <br>
 
 **MAT**: Erika **Pleša** <br>
