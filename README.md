@@ -1,4 +1,4 @@
-# Tehnik Računalništva Testi, Preverjanja, Domača Branja in Dokumenti Praktičnih Ocenjevanj
+# Vegova vsi programi: Testi, Preverjanja, Domača Branja in Dokumenti Praktičnih Ocenjevanj
 ## 2023 - 2027
 ## NOVI PROGRAM (Python v 1. letniku)
 <br>
