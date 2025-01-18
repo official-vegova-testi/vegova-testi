@@ -3,7 +3,7 @@
 ## NOVI PROGRAM RAČUNALNIŠTVA (Python v 1. letniku)
 <br>
 
-## RAČUNALNIŠTVO
+## TEHNIK RAČUNALNIŠTVA
 ### 1. LETNIK profesorji
 **ANG**: Beti **Kerin** <br>
 
@@ -38,4 +38,22 @@
 
 **DIT**: Alexander **Pene** <br>
 
-**DITv**: Alexander **Pene**, David **Zindović** <br>
+**DITv**: Alexander **Pene**, David **Zindović** <br> <br> <br>
+
+
+## ELEKTROTEHNIK
+### 1. LETNIK profesorji
+**ANG**: Vida **Vidmar** <br>
+
+**ETE**: Janez Trček <br>
+
+### 2. LETNIK profesorji
+**ANG**: Vida **Vidmar** <br>
+
+**ETE**: Janez Trček <br>
+
+**EKI**: Jaže Veršnjak<br>
+
+
+
+
