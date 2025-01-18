@@ -57,7 +57,11 @@
 
 **ETE**: Janez Trček <br>
 
+**PRN**: Franc **Kamenik** <br>
+
 **EKI**: Jaže Veršnjak<br> <br> <br>
+
+
 
 
 ## GIMNAZIJA
