@@ -55,5 +55,13 @@
 **EKI**: Jaže Veršnjak<br>
 
 
+## GIMNAZIJA
+
+## 2. Letnik
+
+**ZGO**: Katarina **Kogej** <br>
+
+**KEM** Saška Aleksandra **Kučan** <br>
+
 
 
