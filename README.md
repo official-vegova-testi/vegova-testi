@@ -52,7 +52,7 @@
 
 **ETE**: Janez Trček <br>
 
-**EKI**: Jaže Veršnjak<br>
+**EKI**: Jaže Veršnjak<br> <br> <br>
 
 
 ## GIMNAZIJA
