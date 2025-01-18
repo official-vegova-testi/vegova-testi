@@ -15,6 +15,11 @@
 
 **SPOP**: Dušan **Sitar** <br>
 
+**OSPR** : Melita **Kompolšek** <br>
+
+**URAČ**: Matic **Urbanija** <br>
+
+
 ## 2. LETNIK profesorji
 **ANG**: Beti **Kerin** <br>
 
