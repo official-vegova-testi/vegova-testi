@@ -4,7 +4,7 @@
 <br>
 
 ## TEHNIK RAČUNALNIŠTVA
-### 1. LETNIK profesorji
+## 1. LETNIK profesorji
 **ANG**: Beti **Kerin** <br>
 
 **MAT**: Erika **Pleša** <br>
@@ -42,12 +42,12 @@
 
 
 ## ELEKTROTEHNIK
-### 1. LETNIK profesorji
+## 1. LETNIK profesorji
 **ANG**: Vida **Vidmar** <br>
 
 **ETE**: Janez Trček <br>
 
-### 2. LETNIK profesorji
+## 2. LETNIK profesorji
 **ANG**: Vida **Vidmar** <br>
 
 **ETE**: Janez Trček <br>
